@@ -1,0 +1,9 @@
+text,label
+"Your account has been suspended. Click here to verify immediately http://fakebank.com",phishing
+"Congratulations! You have won a free iPhone. Claim now!",phishing
+"Update your password immediately to avoid account closure.",phishing
+"Meeting scheduled tomorrow at 10 AM.",safe
+"Project report attached for review.",safe
+"Thank you for your purchase. Your receipt is attached.",safe
+"Verify your bank account information now.",phishing
+"Team lunch scheduled for Friday.",safe
